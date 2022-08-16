@@ -1,6 +1,6 @@
 
 from playsound import playsound
-playsound ('D:\\language\\python\\play.mp3')
+playsound ('D:\\language\\python\\plays.mp3')
 
 
 # l1 = [1,2,3,4,5,6,7,8,9,10]
